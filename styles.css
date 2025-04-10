@@ -1,1 +1,26 @@
-/*  your css code here. If applicable */
+#first{
+	padding:10px;
+	border:1px;
+	background-color:white;
+	text-align:center;
+	width:100vw;
+	height:10vh;
+}
+#inner{
+	padding:10px;
+	text-align:right;
+	font-style:italic;
+}
+#second{
+	padding:10px;
+	border:1px;
+	background-color:white;
+	text-align:center;
+	width:100vw;
+	height:10vh;
+}
+#inner2{
+	padding:10px;
+	text-align:right;
+	font-style:italic;
+}
